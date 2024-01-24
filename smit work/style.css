@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif; 
+    background-size:cover;
+    background-image: url(img1.avif);
+}
+.xyz{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: larger;
+padding-left: 55%;
+padding-top: 3%;
+color: blanchedalmond;
+}
+
+#cour{
+ color: black;
+}
+input{
+padding: 10px;
+box-shadow: 5px 9px 8px rgb(58, 57, 57);
+  font-size: 17px;
+  width: 270px;
+  font-weight: 600;
+  outline: blueviolet;
+}
+
+#pos{
+    float: center;
+    padding: 2px 4px;
+    width: 14% !important;
+    font-size: large;
+}
+img{
+
+position: absolute;
+   left: 7px;;
+   top: 0;
+
+}
+footer{
+    padding-top: 14%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-left: 35%;
+    word-spacing: 1.6em;
+      color: black;
+    
+}
+hr{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.hui{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    padding-left: 43%;
+    font-size: x-large;
+}
